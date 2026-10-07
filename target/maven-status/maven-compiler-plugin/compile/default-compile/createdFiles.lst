@@ -1,0 +1,15 @@
+com\village\controller\AuthController.class
+com\village\controller\AnnouncementController.class
+com\village\VillageApplication.class
+com\village\service\UserService.class
+com\village\model\Family.class
+com\village\controller\GlobalExceptionHandler.class
+com\village\controller\UserController.class
+com\village\config\SecurityConfig.class
+com\village\repository\FamilyRepository$Stats.class
+com\village\repository\UserRepository.class
+com\village\repository\AnnouncementRepository.class
+com\village\model\Announcement.class
+com\village\model\VillageUser.class
+com\village\controller\FamilyController.class
+com\village\repository\FamilyRepository.class

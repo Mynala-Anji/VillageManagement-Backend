@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\config\SecurityConfig.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\controller\AnnouncementController.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\controller\AuthController.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\controller\FamilyController.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\controller\GlobalExceptionHandler.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\controller\UserController.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\model\Announcement.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\model\Family.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\model\VillageUser.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\repository\AnnouncementRepository.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\repository\FamilyRepository.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\repository\UserRepository.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\service\UserService.java
+C:\Users\Admin\Downloads\Digital-Village-Management-Fixed\village-management\backend\src\main\java\com\village\VillageApplication.java
