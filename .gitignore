@@ -1,23 +1,28 @@
-# Database credentials
-src/main/resources/application.properties
-
-# Environment files
+# MySQL credentials and local configuration
+/src/main/resources/application.properties
 .env
 .env.*
 !.env.example
 
-# Maven
-target/
+# Maven build output
+/target/
 
-# Java
+# Java compiled files
 *.class
 *.log
 
-# IDE
+# IDE files
 .idea/
 .vscode/
 *.iml
+.settings/
+.project
+.classpath
 
-# OS
+# Operating system files
 .DS_Store
 Thumbs.db
+
+# Local secrets
+*.secret
+*.key
