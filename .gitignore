@@ -1,1 +1,23 @@
+# Database credentials
+src/main/resources/application.properties
 
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Maven
+target/
+
+# Java
+*.class
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
